@@ -56,8 +56,8 @@ npm install
 ```
 
 4. Make sure you have MySQL installed and running on your local machine.
-5. Create the database and tables using the `schema.sql` file.
-6. (Optional) Populate the database with the initial data from `mockData.sql` file.
+5. Create the database and tables using the `schema.sql` file in the database folder.
+6. (Optional) Populate the database with the initial data from `mockData.sql` file in the database folder.
 
 ## Usage
 
