@@ -85,5 +85,12 @@ The database schema includes three tables:
 - MySQL
 - cfonts
 
+## Demo
+
+A video walkthrough of this app can be found here: https://drive.google.com/file/d/1Q0gGRqSF33RV8EUio6SdE7-idrJN0mPE/view
+
+## Repo Location
+
+This repository can be found here: https://github.com/Joyce77777777/Employee-Tracker
 
 
